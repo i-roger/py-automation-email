@@ -4,7 +4,7 @@
 
 # Postarei o link em Breve aqui!
 
-Para rodar o script de automação será necessário algumas etapas:
+## Para rodar o script de automação será necessário algumas etapas:
 
 - Instalar o Python
 - Instalar o Pip ( Sistema de gerenciamento de pacotes )
