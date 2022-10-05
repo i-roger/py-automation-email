@@ -1,4 +1,4 @@
-# Python > Análise de tabela e envio de email automatizado
+# Python > Análise de tabela e envio de email automatizado 🤖
 
 # **Estou preparando um vídeo onde demonstrarei a execução do script, como instalar as dependências e explicar passo a passo como foi desenvolvido.**
 
@@ -20,7 +20,7 @@
 > python3 script.py
 > 
 
-## → Ações do Script
+## → Ações do Script 🤖
 
 - **Passo 1 : Entrar no sistema da empresa (nesse caso é o link do Drive)**
 - **Passo 2 : Navegar no sistema e encontrar a base de vendas (entrar na pasta exportar)**
