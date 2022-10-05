@@ -15,7 +15,7 @@
 
 > pip install panda pyautogui numpy openpyxl
 > 
-- Roda o [script.py](http://script.py) com :
+- Rodar o "script.py" com :
 
 > python3 script.py
 > 
