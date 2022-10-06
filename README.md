@@ -1,8 +1,8 @@
 # Python > Análise de tabela e envio de email automatizado 🤖
 
-# **Estou preparando um vídeo onde demonstrarei a execução do script, como instalar as dependências e explicar passo a passo como foi desenvolvido.**
+# **Estou preparando um vídeo onde mostrarei a execução do script, como instalar as dependências e explicar passo a passo como foi desenvolvido.**
 
-# Postarei o link em Breve aqui!
+# O link será postado em Breve!
 
 ## → Para rodar o script de automação será necessário algumas etapas:
 
